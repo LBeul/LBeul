@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Scala**
 
-- 📝 I wrote [some articles](https://dev.to/lbeul) on tech topics
+- 📝 I wrote [some articles](https://louisbeul.medium.com/) on tech and economics
 
 - 📰 One of them was even published on [t3n](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
 
