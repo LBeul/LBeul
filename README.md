@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A CompSci student and part-time software engineer</h3>
+<h1>Hi, I'm Louis 👋</h1>
+<h3>A CompSci student and part-time software engineer</h3>
 
 - 🔭 I’m currently working for [TeleClinic](https://www.teleclinic.com/)
 
