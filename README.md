@@ -1,10 +1,10 @@
-<h1>Hi, I'm Louis 👋</h1>
+<h1>Hey there, I'm Louis 👋</h1>
 <h3>A CompSci student and part-time software engineer</h3>
 
 - 🔭 I’m currently working for [TeleClinic](https://www.teleclinic.com/)
-- 🌱 I’m currently learning **Python and Scala**
+- 🌱 Right now, I’m learning **Python and Scala**
 - 📝 I wrote [some articles](https://louisbeul.medium.com/) on tech and economics
-- 📰 One of them was even published on [t3n](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
+- 📰 One of them was even published by the [t3n magazine](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
 - 💬 Ask me about **React, JavaScript, TypeScript, Java**
 
 
