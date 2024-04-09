@@ -2,7 +2,7 @@
 <h3>A CompSci student and part-time software engineer</h3>
 
 - 🔭 I’m currently working for [TeleClinic](https://www.teleclinic.com/)
-- 🌱 Right now, I’m learning **Python and Scala**
+- ⚔️ In my free time, TypeScript is my weapon of choice.
 - 📝 I wrote [some articles](https://louisbeul.medium.com/) on tech and economics
 - 📰 One of them was even published by the [t3n magazine](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
 - 💬 Ask me about **React, JavaScript, TypeScript, Java**
