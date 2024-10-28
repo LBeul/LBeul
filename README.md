@@ -1,11 +1,11 @@
 <h1>Hey there, I'm Louis 👋</h1>
-<h3>A CompSci student and part-time software engineer</h3>
+<h3>A software engineer living in Berlin 🇩🇪</h3>
 
 - 🔭 I’m currently working for [TeleClinic](https://www.teleclinic.com/)
 - ⚔️ In my free time, TypeScript is my weapon of choice.
 - 📝 I wrote [some articles](https://louisbeul.medium.com/) on tech and economics
-- 📰 One of them was even published by the [t3n magazine](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
-- 💬 Ask me about **React, JavaScript, TypeScript, Java**
+- 📰 One of them was even published by the German [t3n magazine](https://t3n.de/news/eigentlich-smart-contracts-1232676/)
+- 🚴 When I'm not coding, you'll probably find me on my bike or in the climbing gym
 
 
 <h3 align="left">Languages and Tools:</h3>
