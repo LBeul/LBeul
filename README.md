@@ -19,5 +19,8 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbeul&show_icons=true&locale=en&layout=compact" alt="lbeul" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbeul&show_icons=true&locale=en&layout=compact" alt="lbeul's most used languages" />
+</p>
+<p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/?username=lbeul&rank_icon=github" alt="lbeul's Github stats" />
 </p>
