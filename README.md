@@ -1,5 +1,5 @@
 <h1>Hey there, I'm Louis 👋</h1>
-<h3>A software engineer living in Berlin 🇩🇪</h3>
+<h3>A software engineer living in Berlin 🇪🇺</h3>
 
 - 🔭 I’m currently working for [TeleClinic](https://www.teleclinic.com/)
 - ⚔️ TypeScript is my weapon of choice.
